@@ -1,0 +1,81 @@
+#main{
+    height: 500px;
+    width: 600px;
+    
+    
+    margin: auto;
+    margin-top: 160px;
+    margin-left: 1350;
+    background-repeat: repeat;
+    background-size: cover;
+    background: rgba(0,0,0, 0.3);
+    color:white;
+    border-bottom-right-radius: 70%;
+    border-top-left-radius: 70px;
+    border-top-right-radius: 70px;
+    border-bottom-left-radius: 70%;
+}
+#rules{
+   margin-left: 100px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+
+}
+#rls{
+   text-align: center;
+}
+#main1{
+    margin-left: 5px;
+}
+#main2{
+    text-align: center;
+}
+#main2{
+    margin-left: 10px;
+}
+h1{
+    margin-left: 130px;
+}
+#count{
+    margin-left: 260px;
+}
+#bth{
+    margin-left: 120px;
+}
+
+#reset{
+    margin-left: 200px;
+    background: linear-gradient(90deg,rgb(98, 156, 98),rgb(104, 104, 182));
+    border-radius: 45px;
+    border-color: rgb(25, 101, 101);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#check{
+    
+    background:linear-gradient(90deg,rgb(98,155,98),rgb(104,104,182));
+    border-radius: 45px;
+    border-color: rgb(25, 101, 101);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#check:hover{
+    background: chartreuse;
+}
+#reset:hover{
+    background: chartreuse;
+}
+#n1{
+    padding-left: 50px;
+    border-radius: 50px;
+    border-color: aqua;
+    color: red;
+    background: linear-gradient(90deg,rgb(72,219,210));
+}
+body{
+    background-repeat: repeat;
+    background-size:cover ;
+    background: url(./thumb-1920-1009034.jpg);
+}
+#result{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
